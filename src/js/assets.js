@@ -1,0 +1,12 @@
+import '../assets/anchor.svg';
+import '../assets/basket.svg';
+import '../assets/bycicle.svg';
+import '../assets/chemestry.svg';
+import '../assets/favicon.png';
+import '../assets/map.png';
+import '../assets/microphone.svg';
+import '../assets/paper-plane.svg';
+import '../assets/photo.svg';
+import '../assets/rocket.svg';
+import '../assets/mountain.jpg';
+import '../assets/map-dots.png';
