@@ -650,6 +650,7 @@ html, body {
 
 /* Site-logo */
 .site-title {
+    display: block;
     font-size: 18px;
     line-height: 26px;
     color: #26272d;
@@ -672,8 +673,12 @@ html, body {
     text-align: center;
 }
 
+.site-navigation .container {
+    display: flex;
+    justify-content: space-between;
+}
+
 .navbar-nav {
-    float: none;
     display: inline-block;
 }
 
