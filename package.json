@@ -44,6 +44,7 @@
     "dependencies": {
         "gsap": "^3.9.1",
         "scrollmagic": "^2.0.7",
-        "scrollmagic-plugins": "^1.0.8"
+        "scrollmagic-plugins": "^1.0.8",
+        "split-html-to-chars": "^1.0.5"
     }
 }
